@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://i.gifer.com/3nRA.gif"  width="400">
+  <img src="https://i.gifer.com/3nRA.gif"  width="200">
+  <img src="https://i.gifer.com/KbVT.gif" width= "200">
 </p>
 
 <h1 align="center">
