@@ -13,10 +13,10 @@
 ---
 
 ### **📜 Pokédex Entry**  
-- **Nome:** [Seu Nome]  
-- **Tipo:** `Dev Full-Stack` | `Data Scientist` | `Mobile Trainer`  
-- **Região:** [Seu País/Cidade]  
-- **Habilidades:** `JavaScript`, `Python`, `React`, `Flutter`  
+- **Nome:** [João Victor Nunes]  
+- **Tipo:** `Dev Full-Stack`
+- **Região:** [Brasil/Ceará]  
+- **Habilidades:** `JavaScript`, `Python`, `React`, `ReactNative`, `Node`, `Nest.js`      
 
 ### **🛠️ Tech Stack**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=yellow)  
