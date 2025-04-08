@@ -33,7 +33,7 @@
 
 ### **🌍 Where to Find Me**  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/jvvvy__)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://linkedin.com/in/JoãoVictorNunesRocha)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://linkedin.com/in/joãovictornunes2)  
 ---
 
 <p align="center">
