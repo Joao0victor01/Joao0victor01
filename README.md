@@ -13,7 +13,7 @@
 
 ---
 
-### **📜 Pokédex Entry**  
+### **📜 Infomations **  
 - **Nome:** [João Victor Nunes]  
 - **Tipo:** `Dev Full-Stack`
 - **Região:** [Brasil/Ceará]  
@@ -22,7 +22,8 @@
 ### **🛠️ Tech Stack**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=yellow)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![PokeAPI](https://img.shields.io/badge/-PokeAPI-FF0000?logo=pokemon&logoColor=white)  
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white)  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
 
 ### **📊 GitHub Stats**  
 ![Seu Status](https://github-readme-stats.vercel.app/api?username=SEUUSER&theme=electric&show_icons=true&hide_border=true)  
@@ -42,5 +43,5 @@
 ---
 
 <p align="center">
-  <i>"The code was inside you all along!" — Professor Oak, provavelmente</i> 🌟
+  <i>"The code was inside you all along!" </i> 🌟
 </p>
