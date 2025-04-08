@@ -7,28 +7,26 @@
 </h1>
 
 <h3 align="center">
-  <i>"Wake the fuck up, Samurai. We have code to burn."</i> 🔥
+  <i>"Devil May Cry, but my code never does."</i> 🔥
 </h3>
 
 ---
 
 ### **🔮 Sobre Mim**  
-- 🖥️ **CyberDev** (Full-Stack | Hacker | AI Engineer)  
-- 💾 **Tech Stack:** `Python`, `Rust`, `TypeScript`, `Solidity`  
-- 🎧 **Vibe:** Synthwave | Cyberpunk 2077 OST | Retrowave  
+- 🖥️ **CyberDev** (Full-Stack)  
+- 💾 **Tech Stack:** `Python`, `Javascript`, `TypeScript`, `Solidity`  
+
 
 ### **🛠️ Tech & Tools**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
 ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)  
 ![Neon](https://img.shields.io/badge/-CYBERPUNK-FF00FF?style=for-the-badge)  
-![Hacker](https://img.shields.io/badge/-1337-H4X0R-00FF00?style=for-the-badge)  
 
 ### **📊 GitHub Stats**  
-![CyberStats](https://github-readme-stats.vercel.app/api?username=SEUUSER&theme=radical&show_icons=true&hide_border=true)  
+![CyberStats](https://github-readme-stats.vercel.app/api?username=SEUUSER&theme=radical&show_icons=true&hide_border=true)
+![Devil Trigger](https://img.shields.io/badge/-Devil%20Trigger-FF0000?style=for-the-badge)  
 
 ### **🌐 Conecte-se**  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter)](https://twitter.com/seuuser)  
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord)](https://discord.gg/seuuser)  
 
 ---
 
