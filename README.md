@@ -32,7 +32,7 @@
 ![My Stats](https://github-readme-stats.vercel.app/api?username=Joao0victor01&theme=dark&show_icons=true&hide_border=true)
 
 ### **🌍 Where to Find Me**  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter)](https://twitter.com/seuuser)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/jvvvy_)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://linkedin.com/in/JoãoVictorNunesRocha)  
 
 ---
