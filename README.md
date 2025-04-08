@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="[https://media.tenor.com/fNdTYlP5O59.gif](https://tenor.com/fNdTYlP5O59.gif)" alt="Ash and Pikachu" width="400">
+  <img src="https://media.tenor.com/fNdTYlP5O59.gif"  width="400">
 </p>
+
 
 <h1 align="center">
   <img src="https://img.shields.io/badge/-HELLO%20WORLD%20-TRAINER-red?style=for-the-badge&logo=pokemon&logoColor=yellow">  
