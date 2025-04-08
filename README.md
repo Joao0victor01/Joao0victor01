@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/fNdTYlP5O59.gif" alt="Ash and Pikachu" width="400">
+  <img src="[https://media.tenor.com/fNdTYlP5O59.gif](https://tenor.com/fNdTYlP5O59.gif)" alt="Ash and Pikachu" width="400">
 </p>
 
 <h1 align="center">
