@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/ox91VuRSYDxKkQF3zf/giphy.gif" alt="Cyberpunk City" width="500">
+  <img src="[https://media.giphy.com/media/ox91VuRSYDxKkQF3zf/giphy.gif](https://cdnb.artstation.com/p/assets/images/images/015/341/607/original/jonathan-locci-dantespriteartstation1.gif?1547997497)" alt="Cyberpunk City" width="500">
 </p>
 
 <h1 align="center"> 
