@@ -1,35 +1,46 @@
 <p align="center">
-  <img src="https://tenor.com/fNdTYlP5O59.gif" alt="Cyberpunk City" width="500">
+  <img src="https://media.tenor.com/fNdTYlP5O59.gif" alt="Ash and Pikachu" width="400">
 </p>
 
-<h1 align="center"> 
-  ⚡ <span style="color: #FF00FF">HELLO, WORLD_</span> ⚡
+<h1 align="center">
+  <img src="https://img.shields.io/badge/-HELLO%20WORLD%20-TRAINER-red?style=for-the-badge&logo=pokemon&logoColor=yellow">  
 </h1>
 
 <h3 align="center">
-  <i>"Devil May Cry, but my code never does."</i> 🔥
+  <i>"Gotta Code 'Em All!"</i> 🚀
 </h3>
 
 ---
 
-### **🔮 Sobre Mim**  
-- 🖥️ **CyberDev** (Full-Stack)  
-- 💾 **Tech Stack:** `Python`, `Javascript`, `TypeScript`, `Solidity`  
+### **📜 Pokédex Entry**  
+- **Nome:** [Seu Nome]  
+- **Tipo:** `Dev Full-Stack` | `Data Scientist` | `Mobile Trainer`  
+- **Região:** [Seu País/Cidade]  
+- **Habilidades:** `JavaScript`, `Python`, `React`, `Flutter`  
 
-
-### **🛠️ Tech & Tools**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)  
-![Neon](https://img.shields.io/badge/-CYBERPUNK-FF00FF?style=for-the-badge)  
+### **🛠️ Tech Stack**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=yellow)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![PokeAPI](https://img.shields.io/badge/-PokeAPI-FF0000?logo=pokemon&logoColor=white)  
 
 ### **📊 GitHub Stats**  
-![CyberStats](https://github-readme-stats.vercel.app/api?username=SEUUSER&theme=radical&show_icons=true&hide_border=true)
-![Devil Trigger](https://img.shields.io/badge/-Devil%20Trigger-FF0000?style=for-the-badge)  
+![Seu Status](https://github-readme-stats.vercel.app/api?username=SEUUSER&theme=electric&show_icons=true&hide_border=true)  
 
-### **🌐 Conecte-se**  
+### **🏆 Pokémon Team**  
+| Slot | Pokémon   | Tipo        |  
+|------|-----------|-------------|  
+| 1    | Pikachu   | Elétrico    |  
+| 2    | Charizard | Fogo/Voador |  
+| 3    | Lapras    | Água/Gelo   |  
+
+*(Substitua por suas tecnologias favoritas! Ex: `Pikachu = JavaScript`, `Charizard = Python`)*  
+
+### **🌍 Onde me encontrar**  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter)](https://twitter.com/seuuser)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://linkedin.com/in/seuuser)  
 
 ---
 
 <p align="center">
-  <i>"You're breathtaking." — Keanu Reeves, probably</i> ✨  
+  <i>"The code was inside you all along!" — Professor Oak, probably</i> 🌟
 </p>
