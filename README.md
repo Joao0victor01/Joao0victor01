@@ -35,6 +35,6 @@
 ---
 
 <p align="center">
-  <img src="https://i.gifer.com/XwI4.gif" width="100">
+  <img src="https://i.gifer.com/XwI4.gif" width="100"><br>
   <i>"Byee!" </i> 🌟
 </p>
