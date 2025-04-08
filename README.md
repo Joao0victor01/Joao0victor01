@@ -26,7 +26,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
 
 ### **📊 GitHub Stats**  
-![Seu Status](https://github-readme-stats.vercel.app/api?username=SEUUSER&theme=electric&show_icons=true&hide_border=true)  
+![Seu Status](https://github-readme-stats.vercel.app/api?username=Joao0victor01&theme=electric&show_icons=true&hide_border=true)  
 
 ### **🏆 Pokémon Team**  
 | Slot | Pokémon   | Tipo        |  
