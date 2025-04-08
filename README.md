@@ -29,11 +29,10 @@
 ### **🏆 Pokémon Team**  
 | Slot | Pokémon   | Tipo        |  
 |------|-----------|-------------|  
-| 1    | Pikachu   | Elétrico    |  
+| 1    | Alakazam  | Psychic     |  
 | 2    | Charizard | Fogo/Voador |  
 | 3    | Lapras    | Água/Gelo   |  
 
-*(Substitua por suas tecnologias favoritas! Ex: `Pikachu = JavaScript`, `Charizard = Python`)*  
 
 ### **🌍 Onde me encontrar**  
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter)](https://twitter.com/seuuser)  
