@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://tenor.com/fNdTYlP5O59.gif"  width="400">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm02ZWp2OHJvZnh4ODQyZGo2eGsycHk5d3A4bnZnaDJiN2gxNWw0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iBANmdIlMNJVC/giphy.gif"  width="400">
 </p>
 
 <h1 align="center">
-  <img src="https://img.shields.io/badge/-HELLO%20WORLD%20-TRAINER-red?style=for-the-badge&logo=pokemon&logoColor=yellow">  
+  <img src="https://img.shields.io/badge/HELLO%20WORLD%20TRAINER-red?style=for-the-badge&logo=pokemon&logoColor=yellow">  
 </h1>
 
 <h3 align="center">
