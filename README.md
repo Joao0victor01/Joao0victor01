@@ -29,7 +29,7 @@
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white)  
 
 ### **📊 GitHub Stats**  
-![My Stats](https://github-readme-stats.vercel.app/api?username=Joao0victor01&theme=electric&show_icons=true&hide_border=true)  
+![My Stats](https://github-readme-stats.vercel.app/api?username=Joao0victor01&theme=dark&show_icons=true&hide_border=true)
 
 ### **🌍 Where to Find Me**  
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter)](https://twitter.com/seuuser)  
