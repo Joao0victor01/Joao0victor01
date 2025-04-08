@@ -26,15 +26,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
 
 ### **📊 GitHub Stats**  
-![Seu Status](https://github-readme-stats.vercel.app/api?username=Joao0victor01&theme=electric&show_icons=true&hide_border=true)  
-
-### **🏆 Pokémon Team**  
-| Slot | Pokémon   | Tipo        |  
-|------|-----------|-------------|  
-| 1    | Alakazam  | Psychic     |  
-| 2    | Charizard | Fogo/Voador |  
-| 3    | Lapras    | Água/Gelo   |  
-
+![Meus Status](https://github-readme-stats.vercel.app/api?username=Joao0victor01&theme=electric&show_icons=true&hide_border=true)  
 
 ### **🌍 Onde me encontrar**  
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter)](https://twitter.com/seuuser)  
@@ -43,5 +35,6 @@
 ---
 
 <p align="center">
-  <i>"The code was inside you all along!" </i> 🌟
+  <img src="https://i.gifer.com/XwI4.gif" width="100"
+  <i>"Byee!" </i> 🌟
 </p>
