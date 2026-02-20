@@ -28,7 +28,7 @@
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white)  
 
 ### **GitHub Stats**  
-![My Stats](https://github-readme-stats.vercel.app/api?username=Joao0victor01&theme=dark&show_icons=true&hide_border=true)
+![My Stats](https://github-readme-stats.vercel.app/api?username=Joao0victor01&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 ### **Where to Find Me**  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/jvvvy__)
