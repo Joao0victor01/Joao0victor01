@@ -27,8 +27,8 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white)  
 
-### **GitHub Stats**  
-![Profile Card](https://animated-profile-stats.vercel.app/api/card?username=Joao0victor01&type=fire)
+### **Tops**  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao0victor01&layout=compact&theme=tokyonight&hide_border=true)
 
 ### **Where to Find Me**  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/jvvvy__)
