@@ -27,10 +27,6 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white)  
 
-<p align="center">
-  <img src="https://media.tenor.com/qHZfF0SXZlkAAAAd/metal-gear-solid-snake.gif" width="280">
-</p>
-
 ### **Where to Find Me**  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/jvvvy__)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://linkedin.com/in/joãovictornunes2)  
